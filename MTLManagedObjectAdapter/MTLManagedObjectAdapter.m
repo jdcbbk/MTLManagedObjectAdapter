@@ -10,8 +10,8 @@
 
 #import <Mantle/Mantle.h>
 
-#import "EXTScope.h"
-#import "EXTRuntimeExtensions.h"
+#import "./EXTScope.h"
+#import "./EXTRuntimeExtensions.h"
 
 #import "MTLManagedObjectAdapter.h"
 
